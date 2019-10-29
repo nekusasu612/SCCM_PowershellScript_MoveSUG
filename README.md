@@ -5,8 +5,9 @@ Move an Software update in a specific SUG to another SUG.
 特定のソフトウェア更新プログラムグループに所属している更新プログラムを、
 別のソフトウェア更新プログラムグループへ移動させるという運用がある場合にとても役に立つスクリプトです。
 
-■使い方
+■使い方<br>
 1.以下のファイルをダウンロードし任意の場所（サイトサーバー上）に配置します。
+
 ・SoftwareUpdateGroup-List.csv
 ・SUG-SourceToDest.ps1
 
