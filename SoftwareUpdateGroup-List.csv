@@ -1,9 +1,3 @@
 SUGSource,SUGDest
-WindowsDefender,更新プログラム(ベースライン)
-WindowsOS,更新プログラム(ベースライン)
-WindowsDefender,更新プログラム(当月)
-WindowsOS,更新プログラム(当月)
-WindowsDefender,更新プログラム(前月)
-WindowsOS,更新プログラム(前月)
-WindowsDefender,更新プログラム(前々月)
-WindowsOS,更新プログラム(前々月)
+Windows10,WindowsAndSQL
+SQLServer,WindowsAndSQL
