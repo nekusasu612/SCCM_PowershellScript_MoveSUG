@@ -1,7 +1,7 @@
 # SCCM_PowershellScript_MoveSUG
 Move an Software update in a specific SUG to another SUG.
 
-# スクリプトについて日本語で説明
+# スクリプトについて
 特定のソフトウェア更新プログラムグループに所属している更新プログラムを、
 別のソフトウェア更新プログラムグループへ移動させるという運用がある場合にとても役に立つスクリプトです。
 
